@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **navneetbhardwaj/navneetbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Navneet Kumar 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/navneetbhardwaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjitendrajitu2&screen_name=navneet92)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anavneet_com?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavneetbhardwaj2&screen_name=anavneet_com)
 
 ## I'm a Husband, Son, and Developer!!
 
@@ -58,8 +56,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Navneet Kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navneetbhardwaj&show_icons=true&hide_border=true" />
 
-[facebook]: https://facebook.com/navneetbhardwaj
-[twitter]: https://twitter.com/navneetbhardwaj
-[instagram]: https://instagram.com/navneetbhardwaj
-[linkedin]: https://linkedin.com/in/navneetbhardwaj
+[facebook]: https://facebook.com/adinavneet
+[twitter]: https://twitter.com/anavneet_com
+[instagram]: https://www.instagram.com/navneet_aditi
+[linkedin]: https://linkedin.com/in/er-navneet
 
