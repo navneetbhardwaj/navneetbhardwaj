@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Navneet Kumar 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jitendrajitu2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjitendrajitu2&screen_name=navneet92)
+[![Twitter Follow](https://img.shields.io/twitter/follow/navneetbhardwaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjitendrajitu2&screen_name=navneet92)
 
 ## I'm a Husband, Son, and Developer!!
 
