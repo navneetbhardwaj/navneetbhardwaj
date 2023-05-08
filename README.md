@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **ML / AR **
 - ⚙️ Mastering: `js`, `ts`, `symfony`, `php`, `sql`
 - 🥅 Last Year Created two projects over the React Based framework Shopify Hydrogen [https://airdropgolf.com/, https://mvm.vougish.workers.dev/]
-- 🥅 Handling Team Akeneo Project in Webkul (https://store.webkul.com/Akeneo.html)!- 
+- 🥅 Handling Team Akeneo Project in Webkul ( https://store.webkul.com/Akeneo.html ) 
 - ⚡ I love to cooking and watch movies.
 
 ### Connect with me:
