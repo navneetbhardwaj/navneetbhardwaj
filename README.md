@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Navneet Kumar 👋
+<h1 align="center">Hi 👋, I'm Navneet Kumar</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anavneet_com?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavneetbhardwaj2&screen_name=anavneet_com)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavneetbhardwaj2&screen_name=anavneet_com](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=er-navneet))
 
-## I'm a Husband, Son, and Developer!!
 
-- 🌱 I’m currently working on Akeneo Project in Webkul (https://store.webkul.com/Akeneo.html)!
-- 🥅 2022 Goals: Contribute to Open Source projects,and learn new technologies
+- 🌱 I’m currently learning **ML / AR **
+- ⚙️ Mastering: `js`, `ts`, `symfony`, `php`, `sql`
+- 🥅 Last Year Created two projects over the React Based framework Shopify Hydrogen [https://airdropgolf.com/, https://mvm.vougish.workers.dev/]
+- 🥅 Handling Team Akeneo Project in Webkul (https://store.webkul.com/Akeneo.html)!- 
 - ⚡ I love to cooking and watch movies.
 
 ### Connect with me:
