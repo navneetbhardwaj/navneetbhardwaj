@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Navneet Kumar</h1>
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=er-navneet)
+[![Visit Personal Site](https://img.shields.io/badge/navneetkumar.info-%23e3fc02?style=for-the-badge&logoColor=white)]([https://navneetkumar.info])
 
-
+[Navneet Kumar Site](https://navneetkumar.info/)
 - 🌱 I’m currently learning **ML / AR **
 - ⚙️ Mastering: `js`, `ts`, `symfony`, `php`, `sql`
 - 🥅 Last Year Created two projects over the React Based framework Shopify Hydrogen [https://airdropgolf.com/, https://mvm.vougish.workers.dev/]
