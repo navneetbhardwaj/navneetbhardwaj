@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 [![Visit Personal Site](https://img.shields.io/badge/navneetkumar.info-%23e3fc02?style=for-the-badge&logoColor=white)]([https://navneetkumar.info])
 
 [Navneet Kumar Site](https://navneetkumar.info/)
-- 🌱 I’m currently learning **ML / AR **
-- ⚙️ Mastering: `js`, `ts`, `symfony`, `php`, `sql`
-- 🥅 Last Year Created two projects over the React Based framework Shopify Hydrogen [https://airdropgolf.com/, https://mvm.vougish.workers.dev/]
-- 🥅 Handling Team Akeneo Project in Webkul ( https://store.webkul.com/Akeneo.html ) 
-- ⚡ I love to cooking and watch movies.
+- ⚙️ Expert PIM Developer Specializing in PHP, Symfony, Laravel, Vue.js, React, Backbone.js, Underscore.js, and More
+- 🥅 Developed React-Based Projects with Shopify Hydrogen: airdropgolf.com, mvm.vougish.workers.dev. 
+- ⚡ Passionate about Cooking and Watching Movies.
 
 ### Connect with me:
 
