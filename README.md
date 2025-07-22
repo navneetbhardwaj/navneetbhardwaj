@@ -1,25 +1,8 @@
-<!--
-**navneetbhardwaj/navneetbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Navneet Kumar</h1>
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=er-navneet)
-[![Visit Personal Site](https://img.shields.io/badge/navneetkumar.info-%23e3fc02?style=for-the-badge&logoColor=white)]([https://navneetkumar.info])
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=navneet79)
 
-[Navneet Kumar Site](https://navneetkumar.info/)
-- ⚙️ Expert PIM Developer Specializing in PHP, Symfony, Laravel, Vue.js, React, Backbone.js, Underscore.js, and More
+- ⚙️ Akeneo Certified | PIM Integration Expert | Specializing in UnoPim, Akeneo, Pimcore | Bagisto| PHP, Laravel, Symfony | API, eCommerce & PIM Solutions Specialist
 - 🥅 Developed React-Based Projects with Shopify Hydrogen: airdropgolf.com, mvm.vougish.workers.dev. 
 - ⚡ Passionate about Cooking and Watching Movies.
 
